@@ -101,41 +101,50 @@ Install dependencies:
 
 ```bash
 npm install
-
+```
 
 Run development server:
-npm run dev
 
+```bash
+npm run dev
+```
 
 Open:
+
+```
 http://localhost:3000
+```
 
+---
 
-🔐 Environment Variables
-Create .env.local:
+## 🔐 Environment Variables
+
+Create `.env.local`:
+
+```
 GEMINI_API_KEY=your_key
 DEEPGRAM_API_KEY=your_key
 WEBHOOK_URL=https://your-webhook-endpoint
+```
 
+---
 
-🧩 Future Roadmap
-Kubernetes API integration
+## 🧩 Future Roadmap
 
-OpenTelemetry ingestion
+- Kubernetes API integration  
+- OpenTelemetry ingestion  
+- Terraform / AWS adapters  
+- Policy-driven auto-remediation guardrails  
+- Multi-region blast radius modeling  
+- Historical incident memory  
+- Autonomous rollback engine  
 
-Terraform/AWS adapters
+---
 
-Policy-driven auto-remediation guardrails
+## 🎯 Vision
 
-Multi-region blast radius modeling
-
-Historical incident memory
-
-Autonomous rollback engine
-
-
-🎯 Vision
-AutoOps evolves from simulation
+AutoOps evolves from simulation  
 into a real AI-powered Incident Command System operating inside production infrastructure.
 
 Not beside it.
+
