@@ -101,21 +101,23 @@ Install dependencies:
 
 ```bash
 npm install
+
+
 Run development server:
-
-
 npm run dev
+
+
 Open:
-
-
 http://localhost:3000
+
+
 🔐 Environment Variables
 Create .env.local:
-
-
 GEMINI_API_KEY=your_key
 DEEPGRAM_API_KEY=your_key
 WEBHOOK_URL=https://your-webhook-endpoint
+
+
 🧩 Future Roadmap
 Kubernetes API integration
 
@@ -130,6 +132,7 @@ Multi-region blast radius modeling
 Historical incident memory
 
 Autonomous rollback engine
+
 
 🎯 Vision
 AutoOps evolves from simulation
