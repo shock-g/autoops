@@ -118,7 +118,7 @@ DEEPGRAM_API_KEY=your_key
 WEBHOOK_URL=https://your-webhook-endpoint
 
 
-🧩 Future Roadmap
+##🧩 Future Roadmap
 Kubernetes API integration
 
 OpenTelemetry ingestion
@@ -134,7 +134,7 @@ Historical incident memory
 Autonomous rollback engine
 
 
-🎯 Vision
+##🎯 Vision
 AutoOps evolves from simulation
 into a real AI-powered Incident Command System operating inside production infrastructure.
 
